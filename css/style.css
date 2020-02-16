@@ -1,2 +1,15 @@
-footer .contact-form{width:90%;margin:0 auto}footer .contact-form form .contact-title{font-size:40px}footer .contact-form form input{padding:20px;margin:10px}
-/*# sourceMappingURL=style.css.map */
+footer .contact-form {
+  width: 90%;
+  margin: 0 auto;
+}
+footer .contact-form form .contact-title {
+  font-size: 40px;
+}
+footer .contact-form .bg1 {
+  margin: 5px;
+  box-shadow: none;
+}
+footer .contact-form .bg1 input {
+  padding: 5px;
+  border-radius: 5px;
+}
